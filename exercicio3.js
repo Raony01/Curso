@@ -12,5 +12,5 @@ console.log("Sua media final foi: " + media)
 if(media >= 7){
     console.log("Bom dia Gabriel, você foi aprovado");
 }else{
-    console.log("Bom dia Gabriel, infelizmente você foi Reprovado");
+    console.log("Bom dia Gabriel, infelizmente você foi Reprovado")
 };
